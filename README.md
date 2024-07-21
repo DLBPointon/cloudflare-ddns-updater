@@ -1,4 +1,8 @@
 # Cloudflare Dynamic DNS IP Updater
+---
+NOTE: THIS HAS BEEN MODIFIED TO INCLUDE A WRAPPER SCRIPT THAT WILL ALLOW THE USER TO UPDATE ALL OF THEIR RECORDS VIA LOOP. THIS IS NOT THE INTENTION OF THE ORIGINAL DEV.
+---
+
 <img alt="GitHub" src="https://img.shields.io/github/license/K0p1-Git/cloudflare-ddns-updater?color=black"> <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/K0p1-Git/cloudflare-ddns-updater/main"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/K0p1-Git/cloudflare-ddns-updater">
 
 This script is used to update Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH.
